@@ -1,6 +1,13 @@
-# Very bad programmer yes
+### About Me 👋  
+Hi, I’m Ashley. I like building things that are useful (mostly to me idk if anyone has the problems i have lmao), fun, or occasionally just weird. I mostly work on random tools or scripts that do things for me so i can be lazy, but I do some other nerd shit sometimes that's actually interesting, or it would be interesting if i ever finish it LOL. 
 
-## About
-Developer with a love for learning new things and cybersecurity.
-## tech stack
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,discord,vscode,unity,linux,vim,docker,bash,nodejs" alt="skillicons">
+- 🌱 **Currently into:** C/C++ 
+- 🎯 **Side quests:** made cluster of old dells just waiting to be squeezed of its compute but ngl i think i just like how it looks
+- 🌀 **Fun fact:** they used to make soap out of corpses in the olden times :^) 
+
+---
+
+### Miserable GitHub Stats 📊  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dread0-0&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dread0-0&layout=compact&theme=radical)  
