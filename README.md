@@ -2,7 +2,7 @@
 Hi, I’m Ashley. I like building things that are useful (mostly to me idk if anyone has the problems i have lmao), fun, or occasionally just weird. I mostly work on random tools or scripts that do things for me so i can be lazy, but I do some other nerd shit sometimes that's actually interesting, or it would be interesting if i ever finish it LOL. 
 
 - 🌱 **Currently into:** C/C++ 
-- 🎯 **Side quests:** made cluster of old dells just waiting to be squeezed of its compute but ngl i think i just like how it looks
+- 🎯 **Side quests:** none
 - 🌀 **Fun fact:** they used to make soap out of corpses in the olden times :^) 
 
 ---
